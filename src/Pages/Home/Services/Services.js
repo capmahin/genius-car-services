@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from "react";
-import repair1 from "../../../images/repair1.jpg";
+
 import Service from "../Service/Service";
 import "./Services.css";
 
