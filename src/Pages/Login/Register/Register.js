@@ -10,6 +10,9 @@ const Register = () => {
 
   const handleRegister = (event) => {
     event.preventDefault();
+    const email = event.target.email.value;
+    const name = event.target.name.value;
+    const password = event.target.name.value;
   };
   return (
     <div className="register-form">
